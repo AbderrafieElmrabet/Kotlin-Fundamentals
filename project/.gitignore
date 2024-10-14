@@ -1,0 +1,9 @@
+# Ignore IntelliJ IDEA configuration
+.idea/
+
+# Ignore build output folders
+build/
+out/
+
+# Ignore OS-specific files
+.DS_Store
