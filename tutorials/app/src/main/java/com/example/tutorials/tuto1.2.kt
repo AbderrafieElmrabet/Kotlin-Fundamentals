@@ -8,5 +8,5 @@ fun main() {
 
     //non-nullable
     var name: String = "Kotlin"  // Non-nullable, can't be null
-    name = null  // Error: Null can not be a value of a non-null type String
+    //name = null  // Error: Null can not be a value of a non-null type String
 }
